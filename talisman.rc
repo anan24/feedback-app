@@ -1,0 +1,22 @@
+fileignoreconfig:
+- filename: talisman.rc
+  checksum: b48d90e33ad5f0ff067f4e96c619f288fdabd325d0f923c4afcdc3b67e51e4ee
+- filename: package-lock.json
+  checksum: 5dfd97f7acf630cf0b11d87b3f01ea8f0fcb979bf8148f96ecbc48f359b812be
+- filename: src/components/FeedbackList.jsx
+  checksum: 74fe49c116ffc7374a832435de49c8566e43b45c18d70aec343e0fbb9a7bdabd
+version: ""
+- filename: talisman.rc
+  checksum: 575d261638902faec540ece0df481edfba5cdab33870237bbe268d0bd9a2e2bb
+- filename: package-lock.json
+  checksum: 5dfd97f7acf630cf0b11d87b3f01ea8f0fcb979bf8148f96ecbc48f359b812be
+- filename: src/components/FeedbackList.jsx
+  checksum: 74fe49c116ffc7374a832435de49c8566e43b45c18d70aec343e0fbb9a7bdabd
+version: ""
+- filename: talisman.rc
+  checksum: bba80c69ef76df8307d5302a2eefb2086c35db90fa2cd09cd031521f183883e9
+- filename: package-lock.json
+  checksum: 5dfd97f7acf630cf0b11d87b3f01ea8f0fcb979bf8148f96ecbc48f359b812be
+- filename: src/components/FeedbackList.jsx
+  checksum: 74fe49c116ffc7374a832435de49c8566e43b45c18d70aec343e0fbb9a7bdabd
+version: ""
